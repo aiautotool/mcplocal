@@ -11,7 +11,6 @@
     "test": "node --test",
     "build": "node src/build.js"
   },
-  "engines": {
-    "node": ">=20"
-  }
+  "engines": { "node": ">=20" },
+  "license": "MIT"
 }
