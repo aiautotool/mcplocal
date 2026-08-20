@@ -1,0 +1,17 @@
+{
+  "name": "mcplocal",
+  "version": "0.1.0",
+  "private": false,
+  "description": "Secure local-files MCP server for ChatGPT Web and other MCP clients.",
+  "type": "module",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "node --watch src/server.js",
+    "test": "node --test",
+    "build": "node src/build.js"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
