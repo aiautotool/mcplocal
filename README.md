@@ -1,5 +1,7 @@
 # mcplocal
 
+[![Powered by RustChain](https://img.shields.io/badge/Powered%20by-RustChain-orange)](https://rustchain.org)
+
 Local Files MCP server that lets an MCP-capable client (including ChatGPT Web custom MCP apps where available) read, search and modify files inside one explicitly configured directory.
 
 ## Features
